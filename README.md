@@ -1,4 +1,4 @@
-EntityDocumentor
-================
+Entity Documentor
+=================
 
-An utility to create document for Game Entity System
+An utility to create documentation for Game Entity System
