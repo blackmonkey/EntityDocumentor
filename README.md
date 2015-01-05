@@ -1,7 +1,7 @@
 Entity Documentor
 =================
 
-&copy;2015 Black Monkey Studio
+&copy;2015 [Black Monkey Studio](https://github.com/BlackMonkeyStudio)
 
 An utility to create documentation for Game Entity System.
 
